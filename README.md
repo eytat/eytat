@@ -8,6 +8,7 @@ In 2021 I began my journey in 42 Madrid, Spain learning the mysteries and secret
 
 The next years I decided to look deep into the forbbiden ways of Game Design starting a Master's Degree on Game Design at U-tad, Las Rozas. Here I met professionals of the spanish video game industry as mentors and where I really began to understand the Game Design. My final quest in this adventure was the development of Dusty, a puzzle game. What a nightmere, but fun too.
 
-But it's not the end yet!! Right now, I am working on projects with my comrades in arms while I search a new professional adventure.
+But it's not the end yet!! Right now, I am working on projects on **UNREAL ENGINE** with my comrades in arms while I search a new professional adventure.
 
 ## Skills
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,apple,notion,blender,java,py,mysql,c,cs,cpp,github,ps,pr)](https://skillicons.dev)
