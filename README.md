@@ -13,10 +13,6 @@ But it's not the end yet!! Right now, I am working on projects on **UNREAL ENGIN
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,apple,bash,vim,notion,blender,java,py,mysql,c,cs,cpp,github,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,bash,vim,notion,blender,java,py,mysql,c,cs,cpp,github,ps,pr" />
   </a>
-  <br>
-<!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,c,cs,cpp,github,ps,pr" />
-  </a> -->
 </p>
