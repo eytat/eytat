@@ -15,7 +15,7 @@ But it's not the end yet!! Right now, I am working on projects on **UNREAL ENGIN
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,apple,bash,vim,notion,blender,java" />
   </a>
-  <br/>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,c,cs,cpp,github,ps,pr" />
   </a>
