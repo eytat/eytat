@@ -11,4 +11,6 @@ The next years I decided to look deep into the forbbiden ways of Game Design sta
 But it's not the end yet!! Right now, I am working on projects on **UNREAL ENGINE** with my comrades in arms while I search a new professional adventure.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,apple,notion,blender,java,py,mysql,c,cs,cpp,github,ps,pr)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=unity,unreal,apple,notion,blender,java,py,mysql,c,cs,cpp,github,ps,pr)](https://skillicons.dev)
+</p>
