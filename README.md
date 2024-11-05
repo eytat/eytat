@@ -4,7 +4,7 @@
 
 Long years ago I worked as assistant store manager on tabletop games discovering the cruel life of 41st millenium, lost treasures in Dungeons and dragons and the cantrips of the planeswalkers of MTG. So, I started coding by creating my first procedural generator and game, Colony's Block at Centro Afuera, Madrid.
 
-In 2021 I began my journey in 42 Madrid, Spain learning the mysteries and secrets of the wizard of the code. It was then when I did my second game with OpenGL, So_long and my first game jam (It was horrible, but really fun)!
+In 2021 I began my journey in 42 Madrid, Spain learning the mysteries and secrets of the wizard of the code. It was then when I did my second game with OpenGL, So_long and my first game jam (a horrible experience, but really fun)!
 
 The next years I decided to look deep into the forbbiden ways of Game Design starting a Master's Degree on Game Design at U-tad, Las Rozas. Here I met professionals of the spanish video game industry as mentors and where I really began to understand the Game Design. My final quest in this adventure was the development of Dusty, a puzzle game. What a nightmere, but fun too.
 
