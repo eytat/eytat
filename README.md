@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFA500&center=true&width=435&lines=HOLA!+I'm+Alberto+Mateo+Rey;Game+Designer+Wizard" alt="Typing SVG" /></a>
 </div>
 
-Long years ago I worked as assistant store manager on tabletop games discovering the cruel life of 41st millenium, lost treasures in Dungeons and dragons and the cantrips of the planeswalkers of MTG. So, I started coding by creating my first procedural generator and game, Colony's Block at Centro Afuera, Madrid.
+Long years ago I worked as assistant store manager on tabletop games discovering the cruel life of 41st millenium, lost treasures in dungeons hoarded dragons and the cantrips of the planeswalkers of MTG. So, I started coding by creating my first procedural generator and game, Colony's Block at Centro Afuera, Madrid.
 
 In 2021 I began my journey in 42 Madrid, Spain learning the mysteries and secrets of the wizard of the code. It was then when I did my second game with OpenGL, So_long and my first game jam (a horrible experience, but really fun)!
 
